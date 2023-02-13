@@ -13,5 +13,5 @@
   - WAF  
 ![image](https://user-images.githubusercontent.com/77917710/218407583-2556ba65-fb42-488b-8a3e-c43bc919438c.png)
 
-  - WEB_NginX
+  - WEB_NginX  
 ![image](https://user-images.githubusercontent.com/77917710/218410159-d8274f8f-d637-4517-bc50-202fc1742998.png)
