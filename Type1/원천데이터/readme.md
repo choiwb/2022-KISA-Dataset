@@ -1,6 +1,6 @@
 ## Type1 원천데이터
 
-### 피처 정의 및 유형 구조  		
+### 메타데이터 정의
 
   - FW  
 ![image](https://user-images.githubusercontent.com/77917710/218410527-26ebe20f-1c65-4c61-ab2c-7df328f1c189.png)
