@@ -40,4 +40,4 @@ IT 서비스 모델을 벤치마킹한 시뮬레이션 환경에 공격자를 �
 
 ### 행위별 데이터 수
 -----
-Type1_행위별데이터수.xlsx 파일 참고
+[Type1_행위별데이터수.xlsx](https://github.com/choiwb/2022-KISA-Dataset/blob/a20c783a8aa6566dbf7bf84db0b22a493722152f/Type1/Type1_%ED%96%89%EC%9C%84%EB%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%88%98.xlsx) 파일 참고
