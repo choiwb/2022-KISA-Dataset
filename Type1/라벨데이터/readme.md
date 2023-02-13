@@ -1,6 +1,6 @@
 ## Type1 라벨데이터
 
-### 피처 정의 및 유형 구조  		
+### 메타데이터 정의
   - FW  
 ![image](https://user-images.githubusercontent.com/77917710/218406872-c3031858-eb02-4482-8208-9cc01125495e.png)
 
