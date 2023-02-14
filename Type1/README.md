@@ -29,11 +29,11 @@ IT 서비스 모델을 벤치마킹한 시뮬레이션 환경에 공격자를 �
 -----
 |장비|원시데이터|원천데이터|라벨데이터|
 |------|------|------|------|
-|FW|125,124,863|125,124,863|125,113,969|
-|IPS|[45,195](https://github.com/choiwb/2022-KISA-Dataset/blob/59f1fb8fa1f4f46c1e64d748a22931aa2b6b6f41/Type1/%EC%9B%90%EC%8B%9C%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%9E%A5%EB%B9%84%EB%B3%84/1-RAW-IPS.csv)|45,195|45,195|
-|IDS|121,766|121,766|121,766|
-|WAF|[89,116](https://github.com/choiwb/2022-KISA-Dataset/blob/59f1fb8fa1f4f46c1e64d748a22931aa2b6b6f41/Type1/%EC%9B%90%EC%8B%9C%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%9E%A5%EB%B9%84%EB%B3%84/1-RAW-WAF.csv)|89,116|89,116|
-|WEB_NginX|14,069,567|14,069,567|13,477,124|
+|FW|[125,124,863](https://github.com/choiwb/2022-KISA-Dataset/blob/d965c76df0ad9919549997b4176327e3aeef7a96/Type1/%EC%9B%90%EC%8B%9C%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%9E%A5%EB%B9%84%EB%B3%84/1-FW-RAW.csv)|125,124,863|125,113,969|
+|IPS|[45,195](https://github.com/choiwb/2022-KISA-Dataset/blob/d965c76df0ad9919549997b4176327e3aeef7a96/Type1/%EC%9B%90%EC%8B%9C%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%9E%A5%EB%B9%84%EB%B3%84/1-IPS-RAW.csv)|45,195|45,195|
+|IDS|[121,766](https://github.com/choiwb/2022-KISA-Dataset/blob/d965c76df0ad9919549997b4176327e3aeef7a96/Type1/%EC%9B%90%EC%8B%9C%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%9E%A5%EB%B9%84%EB%B3%84/1-IDS-RAW.csv)|121,766|121,766|
+|WAF|[89,116](https://github.com/choiwb/2022-KISA-Dataset/blob/d965c76df0ad9919549997b4176327e3aeef7a96/Type1/%EC%9B%90%EC%8B%9C%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%9E%A5%EB%B9%84%EB%B3%84/1-WAF-RAW.csv)|89,116|89,116|
+|WEB_NginX|[14,069,567](https://github.com/choiwb/2022-KISA-Dataset/blob/d965c76df0ad9919549997b4176327e3aeef7a96/Type1/%EC%9B%90%EC%8B%9C%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%9E%A5%EB%B9%84%EB%B3%84/1-WEB_NginX-RAW.csv)|14,069,567|13,477,124|
 |데이터 합계|139,450,507|139,450,507|138,847,170|
 
 <br>
